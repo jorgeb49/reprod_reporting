@@ -1,4 +1,4 @@
-CoreBasedStatisticalArea_CBSA,2010_Population,CBSA Code,CO           8-hr (ppm),Pb          3-mo (µg/m3),NO2      AM (ppb),NO2          1-hr (ppb),O3            8-hr (ppm),PM10         24-hr (µg/m3) ,PM2_5,unit,PM2.5         24-hr (µg/m3) ,SO2         1-hr (ppb),lon,lat
+CoreBasedStatisticalArea_CBSA,Population,CBSA Code,CO           8-hr (ppm),Pb          3-mo (Âµg/m3),NO2      AM (ppb),NO2          1-hr (ppb),O3            8-hr (ppm),PM10         24-hr (Âµg/m3) ,PM2_5,unit,PM2.5         24-hr (Âµg/m3) ,SO2         1-hr (ppb),lon,lat
 "Baltimore, MD",2710489,12580,2,ND,17,55,0.088,32,9.7,ug/m3,22,13,-76.6121893,39.2903848
 "Boston, MA",4552402,14460,1,ND,15,49,0.07,30,7,ug/m3,16,13,-71.0588801,42.3600825
 "Buffal, NY",1135509,15380,1,ND,11,48,0.074,ND,6.8,ug/m3,15,18,-78.8783689,42.8864468
